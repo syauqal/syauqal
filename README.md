@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Muhamad Syauqal Afwika Rahman 👋
 ![github-header-image](https://github.com/user-attachments/assets/203a99a7-11c9-4cf6-99c7-5a0922943c67)
 
 
