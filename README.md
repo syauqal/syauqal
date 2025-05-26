@@ -1,4 +1,5 @@
 ## Hi there 👋
+![github-header-image](https://github.com/user-attachments/assets/3c3737f0-606a-453f-b63a-b743ad4ff3f3)
 
 <!--
 **syauqal/syauqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on *@Cybernovaid*
 - 🌱 I’m currently learning *Cybersecurity*
-![github-header-image](https://github.com/user-attachments/assets/a42ed69c-6dfc-4456-96a4-8abc7565f001)
+
